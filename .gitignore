@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/
+data/frames/
+models/
+results/
+
+# Model weight files
+*.pt
+
+# Ultralytics-generated outputs
+runs/
+
+# Temporary YOLO test image
+bus.jpg
